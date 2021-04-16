@@ -10,7 +10,7 @@ Who knows maybe further in the future CentOS and RHEL.
 - User account with sudo permissions
 - Ubuntu based operating system
 
-## Install steps
+## Install steps:
 1. `sudo apt-get install git`
 2. `git clone https://github.com/HNGamingUK/syntropy-darp`
 3. `cd syntropy-darp`
