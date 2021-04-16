@@ -11,8 +11,9 @@ Who knows maybe further in the future CentOS and RHEL.
 - Ubuntu based operating system
 
 ## Install steps:
-1. `sudo apt-get install git`
-2. `git clone https://github.com/HNGamingUK/syntropy-darp`
-3. `cd syntropy-darp`
-4. `./syntropy-darp.sh`
-5. `sudo docker-compose up -d`
+1. `sudo apt-get update`
+2. `sudo apt-get install git`
+3. `git clone https://github.com/HNGamingUK/syntropy-darp`
+4. `cd syntropy-darp`
+5. `./syntropy-darp.sh`
+6. `sudo docker-compose up -d`
