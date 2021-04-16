@@ -2,9 +2,9 @@
 
 This github repo is designed to be able to setup a Syntropy DARP node in under 10 steps.
 
-Syntropy Site: https://www.syntropynet.com/
-Syntropy Docs: https://docs.syntropystack.com/docs
-GitHub: https://github.com/SyntropyNet
+Syntropy Site: https://www.syntropynet.com/ <br>
+Syntropy Docs: https://docs.syntropystack.com/docs <br>
+GitHub: https://github.com/SyntropyNet <br>
 
 ## Warning:
 Currently this will only work for a ubuntu operating system, however I intend to make this work for Ubuntu and Debian. 
