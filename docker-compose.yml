@@ -1,0 +1,9 @@
+version: '2'
+services:
+  syntropy-darp:
+    image: syntropynet/darp-ui:latest
+    container_name: syntropy-darp
+    ports:
+      - 9835:9835/udp
+      - 8080:80
+    restart: unless-stopped
