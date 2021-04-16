@@ -16,4 +16,4 @@ Who knows maybe further in the future CentOS and RHEL.
 3. `git clone https://github.com/HNGamingUK/syntropy-darp`
 4. `cd syntropy-darp`
 5. `./syntropy-darp.sh`
-6. `sudo docker-compose up -d`
+6. `sudo docker-compose -f darp-compose.yml up -d`
