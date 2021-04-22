@@ -22,6 +22,8 @@ Who knows maybe further in the future CentOS and RHEL.
 5. `./syntropy-darp.sh`
 6. `sudo docker-compose up -d`
 
+Once installed succesfully you should be able to access the DARP UI in your browser of choice via http://[IP ADDRESS]:8080
+
 ## Update steps:
 1. `cd syntrop-darp`
 2. `sudo docker-compose pull`
