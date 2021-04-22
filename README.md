@@ -21,3 +21,8 @@ Who knows maybe further in the future CentOS and RHEL.
 4. `cd syntropy-darp`
 5. `./syntropy-darp.sh`
 6. `sudo docker-compose up -d`
+
+## Update steps:
+1. `cd syntrop-darp`
+2. `sudo docker-compose pull`
+3. `sudo docker-compose up -d`
