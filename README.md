@@ -14,6 +14,9 @@ Who knows maybe further in the future CentOS and RHEL.
 - User account with sudo permissions
 - Ubuntu based operating system
 
+## Prior Warning (If using a VPS host)
+- Your host could provide a firewall option within their control panel, if this is the case you will need to ensure ports 8080/tcp and 9835/udp are allowed. If you are unsure on how to do this your provider should have a guide, if not contact your providers support.
+
 ## Install steps:
 1. `sudo apt-get update`
 2. `sudo apt-get install git`
