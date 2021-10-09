@@ -7,8 +7,7 @@ Syntropy Docs: https://docs.syntropystack.com/docs <br>
 GitHub: https://github.com/SyntropyNet <br>
 
 ## Warning:
-Currently this will only work for a ubuntu operating system, however I intend to make this work for Ubuntu and Debian. 
-Who knows maybe further in the future CentOS and RHEL.
+Currently this will only work for a Ubuntu operating systems.
 
 ## Pre Reqs:
 - User account with sudo permissions
