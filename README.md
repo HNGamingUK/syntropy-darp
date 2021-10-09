@@ -6,6 +6,8 @@ Syntropy Site: https://www.syntropynet.com/ <br>
 Syntropy Docs: https://docs.syntropystack.com/docs <br>
 GitHub: https://github.com/SyntropyNet <br>
 
+Please be aware that currently running a DARP node does not yet involve the rewards system, this is due to be added later (exact time/date unknown) 
+
 ## Warning:
 Currently this will only work for a Ubuntu operating systems.
 
